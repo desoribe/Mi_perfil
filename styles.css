@@ -9,6 +9,11 @@ body {
     color: #02144b;
     margin: 0;
     padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #2490e9;
 }
 
 .perfil {
@@ -17,8 +22,7 @@ body {
     border-radius: 8px;
     max-width: 400px;
     margin: auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-
+    box-shadow: 10px 80px 80px rgba(7, 4, 185, 0.1);
 }
 
 .perfil img {
@@ -26,7 +30,5 @@ body {
     height: 300px;
     position: relative;
     top: 40%;
-    left: 18%;
     border-radius: 180px;
 }
-
